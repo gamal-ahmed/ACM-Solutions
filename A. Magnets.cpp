@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int mainaw()
+int main()
 {
         int  magents [100000];
         int groups=0;
