@@ -6,7 +6,7 @@ import java.util.Scanner;
  * replace characters of each type with corresponding binary codes,
 convert the resulting string into a long integer and take it modulo 1000003.
  * */
-public class Main {
+public class Unary {
 	public static String input;
 	public static Scanner s;
 
